@@ -1,0 +1,22 @@
+{
+  "name": "express-exercise",
+  "version": "1.0.0",
+  "description": "day 2 in class exercise",
+  "main": "exp_demo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenneth-ee-t/m3-wk1-d2-demo_v2.git"
+  },
+  "author": "kenneth-ee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenneth-ee-t/m3-wk1-d2-demo_v2/issues"
+  },
+  "homepage": "https://github.com/kenneth-ee-t/m3-wk1-d2-demo_v2#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
